@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4458
+
+textobj-gitgutter is a plugin which provides an inner-hunk text object for hunks provided by the vim-gitgutter plugin. See the included vim help for further details. 
+
+Requirements:
+- textobj-user (vimscript#2100)
+- vim-gitgutter (https://github.com/airblade/vim-gitgutter)
+
+Code is maintained at:
+- https://github.com/gilligan/textobj-gitgutter
